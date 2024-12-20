@@ -1,7 +1,7 @@
 // Custom JS Code
 
+// JS Code
 
-//Jquery Code
-$(document).ready(function() {
-   console.log("Hello World");
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("Hello World");
 });
